@@ -1,0 +1,12 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer{
+    margin-top: 650px;
+    text-align: center;
+    color: aqua;
+}
